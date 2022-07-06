@@ -1,0 +1,8 @@
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Entendo_Finaly\bin\Debug\Entendo_Finaly.exe.config
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Entendo_Finaly\bin\Debug\Entendo_Finaly.exe
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Entendo_Finaly\bin\Debug\Entendo_Finaly.pdb
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Entendo_Finaly\obj\Debug\Entendo_Finaly.csproj.AssemblyReference.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Entendo_Finaly\obj\Debug\Entendo_Finaly.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Entendo_Finaly\obj\Debug\Entendo_Finaly.csproj.CoreCompileInputs.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Entendo_Finaly\obj\Debug\Entendo_Finaly.exe
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Entendo_Finaly\obj\Debug\Entendo_Finaly.pdb

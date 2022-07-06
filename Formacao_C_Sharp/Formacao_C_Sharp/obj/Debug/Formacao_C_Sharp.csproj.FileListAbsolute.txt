@@ -1,0 +1,8 @@
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Formacao_C_Sharp\bin\Debug\Formacao_C_Sharp.exe.config
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Formacao_C_Sharp\bin\Debug\Formacao_C_Sharp.exe
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Formacao_C_Sharp\bin\Debug\Formacao_C_Sharp.pdb
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Formacao_C_Sharp\obj\Debug\Formacao_C_Sharp.csproj.AssemblyReference.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Formacao_C_Sharp\obj\Debug\Formacao_C_Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Formacao_C_Sharp\obj\Debug\Formacao_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Formacao_C_Sharp\obj\Debug\Formacao_C_Sharp.exe
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\Formacao_C_Sharp\obj\Debug\Formacao_C_Sharp.pdb
