@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ConsoleApp1;
 
 namespace ByteBank.SistemaAgencia
 {
@@ -10,6 +6,7 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
+            Class1 c = new Class1();
         }
     }
 }

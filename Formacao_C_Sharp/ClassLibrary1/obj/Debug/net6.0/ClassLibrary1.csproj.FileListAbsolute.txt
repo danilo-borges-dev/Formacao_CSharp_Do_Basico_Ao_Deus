@@ -1,0 +1,12 @@
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
