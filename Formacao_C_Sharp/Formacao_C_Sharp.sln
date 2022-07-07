@@ -13,9 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criando_Excecoes_Ricas", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.SistemaAgencia", "ByteBank.SistemaAgencia\ByteBank.SistemaAgencia.csproj", "{2B4852BB-23BA-48E2-BB3D-8CBE888522DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{2A7C8C52-919B-455F-8330-E2AD9688AD27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{2A7C8C52-919B-455F-8330-E2AD9688AD27}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E3166FD5-7BA6-4874-8E8E-8EDDC0400375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhandoComStrings", "TrabalhandoComStrings\TrabalhandoComStrings.csproj", "{0387C85F-1193-4DEF-81AD-607C5862D9D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{E3166FD5-7BA6-4874-8E8E-8EDDC0400375}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3166FD5-7BA6-4874-8E8E-8EDDC0400375}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3166FD5-7BA6-4874-8E8E-8EDDC0400375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0387C85F-1193-4DEF-81AD-607C5862D9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0387C85F-1193-4DEF-81AD-607C5862D9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0387C85F-1193-4DEF-81AD-607C5862D9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0387C85F-1193-4DEF-81AD-607C5862D9D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
