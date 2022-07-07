@@ -1,0 +1,12 @@
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ByteBank.SistemaAgencia\bin\Release\ByteBank.SistemaAgencia.exe.config
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ByteBank.SistemaAgencia\bin\Release\ByteBank.SistemaAgencia.exe
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ByteBank.SistemaAgencia\bin\Release\ByteBank.SistemaAgencia.pdb
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ByteBank.SistemaAgencia\bin\Release\ConsoleApp1.exe
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ByteBank.SistemaAgencia\bin\Release\ConsoleApp1.pdb
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ByteBank.SistemaAgencia\bin\Release\ConsoleApp1.exe.config
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ByteBank.SistemaAgencia\obj\Release\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ByteBank.SistemaAgencia\obj\Release\ByteBank.SistemaAgencia.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ByteBank.SistemaAgencia\obj\Release\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ByteBank.SistemaAgencia\obj\Release\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ByteBank.SistemaAgencia\obj\Release\ByteBank.SistemaAgencia.exe
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\Formacao_C_Sharp\ByteBank.SistemaAgencia\obj\Release\ByteBank.SistemaAgencia.pdb

@@ -1,0 +1,12 @@
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\bin\Release\EntendoDLLs.exe.config
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\bin\Release\EntendoDLLs.exe
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\bin\Release\EntendoDLLs.pdb
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\bin\Release\ConsoleApp1.exe
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\bin\Release\ConsoleApp1.pdb
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\bin\Release\ConsoleApp1.exe.config
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\obj\Release\EntendoDLLs.csproj.AssemblyReference.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\obj\Release\EntendoDLLs.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\obj\Release\EntendoDLLs.csproj.CoreCompileInputs.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\obj\Release\EntendoDLLs.csproj.CopyComplete
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\obj\Release\EntendoDLLs.exe
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\obj\Release\EntendoDLLs.pdb

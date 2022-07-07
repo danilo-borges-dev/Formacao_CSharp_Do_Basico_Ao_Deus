@@ -1,0 +1,12 @@
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\bin\Debug\EntendoDLLs.exe.config
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\bin\Debug\EntendoDLLs.exe
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\bin\Debug\EntendoDLLs.pdb
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\bin\Debug\ConsoleApp1.exe
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\bin\Debug\ConsoleApp1.pdb
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\bin\Debug\ConsoleApp1.exe.config
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\obj\Debug\EntendoDLLs.csproj.AssemblyReference.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\obj\Debug\EntendoDLLs.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\obj\Debug\EntendoDLLs.csproj.CoreCompileInputs.cache
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\obj\Debug\EntendoDLLs.csproj.CopyComplete
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\obj\Debug\EntendoDLLs.exe
+C:\Workspace\Formacao_CSharp_Do_Basico_Ao_Deus\EntendoDLLs\EntendoDLLs\obj\Debug\EntendoDLLs.pdb
