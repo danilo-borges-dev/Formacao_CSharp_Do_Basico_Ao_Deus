@@ -1,4 +1,5 @@
 ﻿using ConsoleApp1;
+using System;
 
 namespace ByteBank.SistemaAgencia
 {
@@ -6,11 +7,18 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
-            Class1 c = new Class1();
+            LoginDeUsuario login = new LoginDeUsuario();
 
-            AutenticacoHelper _autenticar = new AutenticacoHelper();
+            try
+            {
+                login.ValidarLogin("13");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
 
-            _autenticar.Autenticar("","");
+            Console.ReadLine();
         }
     }
 }
