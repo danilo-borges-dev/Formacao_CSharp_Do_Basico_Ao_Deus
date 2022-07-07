@@ -12,12 +12,18 @@ namespace Entendendo_Melhor_Exceções
         {
             try
             {
+                object o = null;
+                o.ToString();
                 int resultado = Matematica(10, 0);
             }
             catch (ArgumentException ex)
             {
                 Console.WriteLine(ex.Message);
                 Console.WriteLine(ex.StackTrace);
+            }
+            catch (NullReferenceException)
+            {
+                Console.WriteLine("Referencia Null");
             }
             Console.ReadLine();
         }
