@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formacao_C_Sharp", "Formaca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entendo_Finaly", "Entendo_Finaly\Entendo_Finaly.csproj", "{F543448F-83A0-4030-BAF9-9666A94155AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entendendo_Melhor_Exceções", "Entendendo_Melhor_Exceções\Entendendo_Melhor_Exceções.csproj", "{6A2C63FE-9207-4B21-ACE7-AA3EECA69719}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F543448F-83A0-4030-BAF9-9666A94155AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F543448F-83A0-4030-BAF9-9666A94155AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F543448F-83A0-4030-BAF9-9666A94155AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A2C63FE-9207-4B21-ACE7-AA3EECA69719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2C63FE-9207-4B21-ACE7-AA3EECA69719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2C63FE-9207-4B21-ACE7-AA3EECA69719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2C63FE-9207-4B21-ACE7-AA3EECA69719}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
