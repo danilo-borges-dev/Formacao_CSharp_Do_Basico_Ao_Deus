@@ -7,6 +7,10 @@ namespace ByteBank.SistemaAgencia
         static void Main(string[] args)
         {
             Class1 c = new Class1();
+
+            AutenticacoHelper _autenticar = new AutenticacoHelper();
+
+            _autenticar.Autenticar("","");
         }
     }
 }
