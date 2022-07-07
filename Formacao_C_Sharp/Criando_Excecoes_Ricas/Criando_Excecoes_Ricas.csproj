@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6A2C63FE-9207-4B21-ACE7-AA3EECA69719}</ProjectGuid>
+    <ProjectGuid>{3D5EEC15-0AF8-4FAC-BEB5-1915B1D9AB80}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Entendendo_Melhor_Exceções</RootNamespace>
-    <AssemblyName>Entendendo_Melhor_Exceções</AssemblyName>
+    <RootNamespace>Criando_Excecoes_Ricas</RootNamespace>
+    <AssemblyName>Criando_Excecoes_Ricas</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
