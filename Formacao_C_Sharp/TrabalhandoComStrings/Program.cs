@@ -10,16 +10,15 @@ namespace TrabalhandoComStrings
     {
         static void Main(string[] args)
         {
-                       
 
-            string URL = "moedaOrigem=real?moedaDestino=dolar";
+
+            string URL = @"http://www.bytebank.com/cambio?moedaOrigem=real?moedaDestino=dolar";
             ValidaString valida = new ValidaString(URL);
 
-            Console.WriteLine(valida.GetValor("moedaDestino"));
-                    
+            Console.WriteLine(valida.GetValor("moedaOrigem"));
+
             Console.ReadLine();
         }
-
         
     }
 }

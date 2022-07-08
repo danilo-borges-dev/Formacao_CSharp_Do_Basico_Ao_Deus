@@ -21,6 +21,12 @@ namespace TrabalhandoComStrings
             int indiceTermo = URL.IndexOf(termo);
             int tamanhoTermo = termo.Length;
             string resultado = URL.Substring(indiceTermo + tamanhoTermo);
+
+            Console.WriteLine(resultado);
+            int indicePontoDeInterrogacao = resultado.IndexOf("?");
+            Console.WriteLine(indicePontoDeInterrogacao);
+            resultado = resultado.Remove(indicePontoDeInterrogacao);
+
             return resultado;
         }
     }
