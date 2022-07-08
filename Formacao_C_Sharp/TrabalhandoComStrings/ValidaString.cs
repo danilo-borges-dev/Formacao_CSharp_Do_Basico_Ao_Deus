@@ -15,12 +15,12 @@ namespace TrabalhandoComStrings
             URL = url;
         }
 
-        public string GetValor(string nomeDoParametro, string palavra)
+        public string GetValor(string nomeDoParametro)
         {
             string termo = nomeDoParametro + "=";
-            int indiceTermo = palavra.IndexOf(termo);
+            int indiceTermo = URL.IndexOf(termo);
             int tamanhoTermo = termo.Length;
-            string resultado = palavra.Substring(indiceTermo + tamanhoTermo);
+            string resultado = URL.Substring(indiceTermo + tamanhoTermo);
             return resultado;
         }
     }

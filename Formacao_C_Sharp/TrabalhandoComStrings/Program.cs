@@ -10,22 +10,12 @@ namespace TrabalhandoComStrings
     {
         static void Main(string[] args)
         {
-            string url = "paginas?argumentos";
+                       
 
-            try
-            {
-                //ValidaString v = new ValidaString("");
-            }
-            catch (ArgumentNullException ex)
-            {
-                Console.WriteLine(ex.ToString());
-            }
+            string URL = "moedaOrigem=real?moedaDestino=dolar";
+            ValidaString valida = new ValidaString(URL);
 
-
-            string palavra = "moedaOrigem=real?moedaDestino=dolar";
-            string nomeArgumento = "moedaDestino";
-
-            Console.WriteLine(GetValor(nomeArgumento, palavra));
+            Console.WriteLine(valida.GetValor("moedaDestino"));
                     
             Console.ReadLine();
         }
