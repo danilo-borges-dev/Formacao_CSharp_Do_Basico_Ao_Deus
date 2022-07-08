@@ -10,21 +10,26 @@ namespace TrabalhandoComStrings
     {
         static void Main(string[] args)
         {
-            string url = "pagina?argumentos";
+            string url = "paginas?argumentos";
 
-            Console.WriteLine(url.Substring(7));
-
-
-            for (int i = 0; i < url.Length; i++)
+            try
             {
-                string s = url[i].ToString();
-                if (s != "?")
-                {
-                    Console.Write(s);
-                }
+                //ValidaString v = new ValidaString("");
+            }
+            catch (ArgumentNullException ex)
+            {
+                Console.WriteLine(ex.ToString());
             }
 
+
+            string palavra = "moedaOrigem=real?moedaDestino=dolar";
+            string nomeArgumento = "moedaDestino";
+
+            Console.WriteLine(GetValor(nomeArgumento, palavra));
+                    
             Console.ReadLine();
         }
+
+        
     }
 }
