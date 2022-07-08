@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 
 namespace TrabalhandoComStrings
 {
@@ -12,10 +9,19 @@ namespace TrabalhandoComStrings
         {
 
 
-            string URL = @"http://www.bytebank.com/cambio?moedaOrigem=real?moedaDestino=dolar";
-            ValidaString valida = new ValidaString(URL);
+            //string URL = @"http://www.bytebank.com/cambio?moedaOrigem=real?moedaDestino=dolar".ToUpper();
+            //ValidaString valida = new ValidaString(URL);
 
-            Console.WriteLine(valida.GetValor("moedaOrigem"));
+            //Console.WriteLine(valida.GetValor("moedaOrigem").ToUpper());
+
+            string mensagem_01 = "Me ligue em 7894-2095";
+            string mensagem_02 = "Meu número de telefone é 7895-5263";
+            string mensagem_03 = "O número de telefone 9915-5236 é contato profissional";
+
+            string padraoTelefone = "[0-9][0-9][0-9][0-9][-][0-9][0-9][0-9][0-9]";
+
+            Console.WriteLine(Regex.IsMatch(mensagem_01, padraoTelefone));  // Temos como retorno um true
+            Console.WriteLine(Regex.Match(mensagem_01, padraoTelefone)) ;// Temos como retorno o número que está dentro do padrão
 
             Console.ReadLine();
         }

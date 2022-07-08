@@ -24,7 +24,6 @@ namespace TrabalhandoComStrings
 
             Console.WriteLine(resultado);
             int indicePontoDeInterrogacao = resultado.IndexOf("?");
-            Console.WriteLine(indicePontoDeInterrogacao);
             resultado = resultado.Remove(indicePontoDeInterrogacao);
 
             return resultado;
