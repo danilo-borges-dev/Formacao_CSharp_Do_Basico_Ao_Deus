@@ -20,6 +20,11 @@ namespace Entendo_Arrays
 
             Console.WriteLine(idades[3]);
 
+            int[] novoArray = idades;
+
+            Console.WriteLine(novoArray[2]);
+
+            Console.WriteLine(novoArray[2 + 2]);
 
             Console.ReadLine();
         }
