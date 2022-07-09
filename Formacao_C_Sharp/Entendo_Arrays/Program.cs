@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Entendo_Arrays
 {
@@ -12,19 +8,21 @@ namespace Entendo_Arrays
         {
             int[] idades = new int[5];
 
-            idades[0] = 1;
-            idades[1] = 2;
-            idades[2] = 3;
-            idades[3] = 4;
-            idades[4] = 5;
+            idades[0] = 29;
+            idades[1] = 18;
+            idades[2] = 33;
+            idades[3] = 36;
+            idades[4] = 23;
 
-            Console.WriteLine(idades[3]);
+            int contadorAuxiliar = 0;
 
-            int[] novoArray = idades;
+            for (int i = 0; i < idades.Length; i++)
+            {
+                Console.WriteLine($"Idade no indice {i} é igual a {idades[i]}");
+                contadorAuxiliar += idades[i];
+            }
 
-            Console.WriteLine(novoArray[2]);
-
-            Console.WriteLine(novoArray[2 + 2]);
+            Console.WriteLine($"A média de idades é igual a {contadorAuxiliar / idades.Length}");
 
             Console.ReadLine();
         }
