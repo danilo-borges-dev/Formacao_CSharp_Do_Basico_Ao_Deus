@@ -12,21 +12,12 @@ Console.WriteLine($"Acessando o segundo elemento do segundo array: {newArray[1,2
 Console.WriteLine(secondArray.IsFixedSize);
 Console.WriteLine(newArray.Rank);
 
-var source = new[] { "Ally", "Bishop", "Billy" };
-var target = new string[5];
+Console.WriteLine(secondArray[0]);
 
-source.CopyTo(target, 2);
+object[] array = new object[1];
 
-    int i = 0;
-foreach (var item in target)
-{
-    Console.WriteLine(i);
-    Console.WriteLine(item);
-    i++;
-}
+array[0] = "Name";
 
-// output:
+object[] newArray2 = { 0, 1, 2, 3, 4, 5 };
 
-// Ally
-// Bishop
-// Billy
+Console.WriteLine(newArray2[1]);

@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entendo_Melhor_O_Funcionamento_De_Arrays", "Entendo_Melhor_O_Funcionamento_De_Arrays\Entendo_Melhor_O_Funcionamento_De_Arrays.csproj", "{853BCB1E-FEA8-406E-9240-D9F760216D4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entendo_Arrays", "Entendo_Arrays\Entendo_Arrays.csproj", "{AF4E2407-24C0-4516-A6E1-340DC3FD4936}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entendo_Arrays", "Entendo_Arrays\Entendo_Arrays.csproj", "{AF4E2407-24C0-4516-A6E1-340DC3FD4936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entendendo_Arrays_02", "Entendendo_Arrays_02\Entendendo_Arrays_02.csproj", "{FBFE37A8-AA16-45E1-96AC-1311E89FCD3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AF4E2407-24C0-4516-A6E1-340DC3FD4936}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF4E2407-24C0-4516-A6E1-340DC3FD4936}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF4E2407-24C0-4516-A6E1-340DC3FD4936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBFE37A8-AA16-45E1-96AC-1311E89FCD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFE37A8-AA16-45E1-96AC-1311E89FCD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFE37A8-AA16-45E1-96AC-1311E89FCD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFE37A8-AA16-45E1-96AC-1311E89FCD3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
