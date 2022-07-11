@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comprando_Arrays_De_Objetos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparable_teste", "IComparable_teste\IComparable_teste.csproj", "{56AF23DD-C8CF-4A96-BABE-20C0E33799DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICompare_teste", "ICompare_teste\ICompare_teste.csproj", "{1A217F88-52C6-4DB4-8A48-5F5D47E7F5A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{56AF23DD-C8CF-4A96-BABE-20C0E33799DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56AF23DD-C8CF-4A96-BABE-20C0E33799DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56AF23DD-C8CF-4A96-BABE-20C0E33799DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A217F88-52C6-4DB4-8A48-5F5D47E7F5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A217F88-52C6-4DB4-8A48-5F5D47E7F5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A217F88-52C6-4DB4-8A48-5F5D47E7F5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A217F88-52C6-4DB4-8A48-5F5D47E7F5A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
