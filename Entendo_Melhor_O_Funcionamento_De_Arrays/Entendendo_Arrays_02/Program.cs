@@ -23,3 +23,14 @@ int[] numeros = { 1, 2, 3, 4, 5, 6 };
 Array a = (Array)numeros;   // Aqui armazenei a referencia do array numeros na variavel a.
 
 Console.WriteLine(a.GetValue(4)); // Com GetValue é possível acessar o valor 
+
+a.SetValue(10, 1);
+
+Console.WriteLine("Valor atualizado: {0}", a.GetValue(1));
+
+
+string[] names = { "Danilo", "João", "Sueli" };
+
+string[] n = (string[])names;
+
+Console.WriteLine(n[0]);
