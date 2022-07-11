@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Criando_Novos_Arrays_Create
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comprando_Arrays_De_Objetos", "Comprando_Arrays_De_Objetos\Comprando_Arrays_De_Objetos.csproj", "{591845AF-5A2A-4A0A-BB67-A250C160F72B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparable_teste", "IComparable_teste\IComparable_teste.csproj", "{56AF23DD-C8CF-4A96-BABE-20C0E33799DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IComparable_teste", "IComparable_teste\IComparable_teste.csproj", "{56AF23DD-C8CF-4A96-BABE-20C0E33799DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICompare_teste", "ICompare_teste\ICompare_teste.csproj", "{1A217F88-52C6-4DB4-8A48-5F5D47E7F5A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICompare_teste", "ICompare_teste\ICompare_teste.csproj", "{1A217F88-52C6-4DB4-8A48-5F5D47E7F5A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICompare_Class", "ICompare_Class\ICompare_Class.csproj", "{4013BAEB-8604-4FA9-85F3-A1924BE63F1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{1A217F88-52C6-4DB4-8A48-5F5D47E7F5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A217F88-52C6-4DB4-8A48-5F5D47E7F5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A217F88-52C6-4DB4-8A48-5F5D47E7F5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4013BAEB-8604-4FA9-85F3-A1924BE63F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4013BAEB-8604-4FA9-85F3-A1924BE63F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4013BAEB-8604-4FA9-85F3-A1924BE63F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4013BAEB-8604-4FA9-85F3-A1924BE63F1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
