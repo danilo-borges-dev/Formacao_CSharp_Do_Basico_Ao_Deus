@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Entendo_Melhor_O_Funcionamento_De_Arrays
+﻿namespace Entendo_Melhor_O_Funcionamento_De_Arrays
 {
     internal class ListaDeContaCorrente
     {
