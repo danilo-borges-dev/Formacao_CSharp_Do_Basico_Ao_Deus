@@ -23,6 +23,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entendo_IEquatable", "Enten
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praticando_IComparable", "Praticando_IComparable\Praticando_IComparable.csproj", "{409090BD-0063-41ED-B3AD-A55A7A727FDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praticanto_ICompare", "Praticanto_ICompare\Praticanto_ICompare.csproj", "{FED73508-6B3A-49AC-ADEF-628B33D34FDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praticando_IEquatable", "Praticando_IEquatable\Praticando_IEquatable.csproj", "{8EAF63F5-D696-4566-AE7C-977A0947B8D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{409090BD-0063-41ED-B3AD-A55A7A727FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{409090BD-0063-41ED-B3AD-A55A7A727FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{409090BD-0063-41ED-B3AD-A55A7A727FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED73508-6B3A-49AC-ADEF-628B33D34FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED73508-6B3A-49AC-ADEF-628B33D34FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED73508-6B3A-49AC-ADEF-628B33D34FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED73508-6B3A-49AC-ADEF-628B33D34FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EAF63F5-D696-4566-AE7C-977A0947B8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EAF63F5-D696-4566-AE7C-977A0947B8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EAF63F5-D696-4566-AE7C-977A0947B8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EAF63F5-D696-4566-AE7C-977A0947B8D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
