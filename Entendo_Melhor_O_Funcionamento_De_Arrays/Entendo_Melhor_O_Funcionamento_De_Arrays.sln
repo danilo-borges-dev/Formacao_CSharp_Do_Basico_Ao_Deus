@@ -21,13 +21,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICompare_Class", "ICompare_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entendo_IEquatable", "Entendo_IEquatable\Entendo_IEquatable.csproj", "{DF6E13E5-37BC-4169-9353-07B07791D1CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praticando_IComparable", "Praticando_IComparable\Praticando_IComparable.csproj", "{409090BD-0063-41ED-B3AD-A55A7A727FDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Praticando_IComparable", "Praticando_IComparable\Praticando_IComparable.csproj", "{409090BD-0063-41ED-B3AD-A55A7A727FDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praticanto_ICompare", "Praticanto_ICompare\Praticanto_ICompare.csproj", "{FED73508-6B3A-49AC-ADEF-628B33D34FDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Praticanto_ICompare", "Praticanto_ICompare\Praticanto_ICompare.csproj", "{FED73508-6B3A-49AC-ADEF-628B33D34FDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praticando_IEquatable", "Praticando_IEquatable\Praticando_IEquatable.csproj", "{8EAF63F5-D696-4566-AE7C-977A0947B8D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Praticando_IEquatable", "Praticando_IEquatable\Praticando_IEquatable.csproj", "{8EAF63F5-D696-4566-AE7C-977A0947B8D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEquatable_Com_Structs", "IEquatable_Com_Structs\IEquatable_Com_Structs.csproj", "{801546CF-2926-4DAE-81D7-3E79F198E527}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IEquatable_Com_Structs", "IEquatable_Com_Structs\IEquatable_Com_Structs.csproj", "{801546CF-2926-4DAE-81D7-3E79F198E527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenarElementos", "OrdenarElementos\OrdenarElementos.csproj", "{52BF1FDC-62B0-4DF8-B85C-DDF3092F6E59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{801546CF-2926-4DAE-81D7-3E79F198E527}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{801546CF-2926-4DAE-81D7-3E79F198E527}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{801546CF-2926-4DAE-81D7-3E79F198E527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52BF1FDC-62B0-4DF8-B85C-DDF3092F6E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BF1FDC-62B0-4DF8-B85C-DDF3092F6E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BF1FDC-62B0-4DF8-B85C-DDF3092F6E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BF1FDC-62B0-4DF8-B85C-DDF3092F6E59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
