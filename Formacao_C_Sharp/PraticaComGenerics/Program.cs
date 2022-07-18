@@ -1,6 +1,6 @@
 ﻿using PraticaComGenerics;
 
-Lista l = new Lista();
+Lista<int> l = new Lista<int>();
 
 l.Adicionar(10);
 l.Adicionar(20);

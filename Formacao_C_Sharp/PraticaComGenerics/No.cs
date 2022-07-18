@@ -1,9 +1,9 @@
 ﻿namespace PraticaComGenerics
 {                   
-    internal class No
+    internal class No<T>
     {       // int
-        public object Elemento;
+        public T Elemento;
             // int
-        public No Proximo;
+        public No<T> Proximo;
     }
 }
