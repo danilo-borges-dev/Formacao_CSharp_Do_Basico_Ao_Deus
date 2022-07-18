@@ -34,3 +34,7 @@ Console.WriteLine();
 List<Pessoa> listaPessoaSelecionada = (from Pessoa ps in novaListaDePessoas where ps.Nome == "Amanda" select ps).ToList();
 
 listaPessoaSelecionada.ForEach(x => Console.WriteLine(x.Nome));
+Console.WriteLine();
+
+int somaDasidades = listaDePessoas.Sum(x => x.Idade);
+Console.WriteLine($"A soma das idades das pessoas é: {somaDasidades}");
