@@ -25,26 +25,30 @@ namespace Entendo_Arrays
 
             //Console.WriteLine($"A média de idades é igual a {contadorAuxiliar / idades.Length}");
 
-            ContaCorrente[] contaCorrente = new ContaCorrente[]
-            {
-                new ("Danilo", 1010);
-        };
-        ContaCorrente conta2 = new ContaCorrente("Sueli", 1012);
-        ContaCorrente conta3 = new ContaCorrente("João", 1015);
+            //    ContaCorrente[] contaCorrente = new ContaCorrente[]
+            //    {
+            //        new ("Danilo", 1010);
+            //};
+            //ContaCorrente conta2 = new ContaCorrente("Sueli", 1012);
+            //ContaCorrente conta3 = new ContaCorrente("João", 1015);
 
-        Console.ReadLine();
+            //Console.ReadLine();
+            //}
         }
-}
 
-internal class ContaCorrente
-{
-    public string Name { get; set; }
-    public int NConta { get; set; }
+        internal class ContaCorrente
+        {
+            public string Name { get; set; }
+            public int NConta { get; set; }
 
-    public ContaCorrente(string name, int nConta)
-    {
-        Name = name;
-        NConta = nConta;
+            public ContaCorrente(string name, int nConta)
+            {
+                Name = name;
+                NConta = nConta;
+            }
+        }
     }
 }
-}
+
+
+
