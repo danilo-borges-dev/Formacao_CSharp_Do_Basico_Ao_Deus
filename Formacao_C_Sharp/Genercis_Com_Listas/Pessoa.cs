@@ -15,5 +15,21 @@
             Idade = idade;
             Sexo = sexo;
         }
+
+        public void MetodoAumentaIdade(List<Pessoa> listaPessoas)
+        {
+            foreach (var pessoa in listaPessoas)
+            {
+                pessoa.Idade++;
+            }
+        }
+
+        public void Mostrar(List<Pessoa> listaP)
+        {
+            foreach (var item in listaP)
+            {
+                Console.WriteLine($"{item.Nome} idade {item.Idade}");
+            }
+        }
     }
 }
