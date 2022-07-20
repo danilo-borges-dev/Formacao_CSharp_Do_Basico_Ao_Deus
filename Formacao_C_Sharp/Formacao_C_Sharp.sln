@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PraticandoClasse_Generics",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Genercis_Com_Listas", "Genercis_Com_Listas\Genercis_Com_Listas.csproj", "{2A027162-9EA9-467F-96A7-200C44BD2926}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraticaComGenerics", "PraticaComGenerics\PraticaComGenerics.csproj", "{1B9B68B8-FD0C-4763-BA03-08EB704222C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PraticaComGenerics", "PraticaComGenerics\PraticaComGenerics.csproj", "{1B9B68B8-FD0C-4763-BA03-08EB704222C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinandoComList", "TreinandoComList\TreinandoComList.csproj", "{3B235983-314C-4D5D-AEA9-4522F590AFEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{1B9B68B8-FD0C-4763-BA03-08EB704222C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B9B68B8-FD0C-4763-BA03-08EB704222C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B9B68B8-FD0C-4763-BA03-08EB704222C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B235983-314C-4D5D-AEA9-4522F590AFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B235983-314C-4D5D-AEA9-4522F590AFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B235983-314C-4D5D-AEA9-4522F590AFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B235983-314C-4D5D-AEA9-4522F590AFEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
