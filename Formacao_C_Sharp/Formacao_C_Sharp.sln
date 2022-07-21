@@ -35,9 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PraticaComGenerics", "Prati
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreinandoComList", "TreinandoComList\TreinandoComList.csproj", "{3B235983-314C-4D5D-AEA9-4522F590AFEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevisaoIComparable", "RevisaoIComparable\RevisaoIComparable.csproj", "{873C2F33-FCE8-4F6F-B5BE-CD8E2DD548AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RevisaoIComparable", "RevisaoIComparable\RevisaoIComparable.csproj", "{873C2F33-FCE8-4F6F-B5BE-CD8E2DD548AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevisaoIEquatable", "RevisaoIEquatable\RevisaoIEquatable.csproj", "{96D0987E-D7FF-4497-98A3-61B87D9751CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RevisaoIEquatable", "RevisaoIEquatable\RevisaoIEquatable.csproj", "{96D0987E-D7FF-4497-98A3-61B87D9751CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Praticando_Exercicios_Jr", "01_Praticando_Exercicios_Jr\01_Praticando_Exercicios_Jr.csproj", "{DB76FA3C-F3E7-45B7-8310-05BB69C51115}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{96D0987E-D7FF-4497-98A3-61B87D9751CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96D0987E-D7FF-4497-98A3-61B87D9751CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96D0987E-D7FF-4497-98A3-61B87D9751CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB76FA3C-F3E7-45B7-8310-05BB69C51115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB76FA3C-F3E7-45B7-8310-05BB69C51115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB76FA3C-F3E7-45B7-8310-05BB69C51115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB76FA3C-F3E7-45B7-8310-05BB69C51115}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
