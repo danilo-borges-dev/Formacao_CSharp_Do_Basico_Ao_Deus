@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Genercis_Com_Listas", "Gene
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PraticaComGenerics", "PraticaComGenerics\PraticaComGenerics.csproj", "{1B9B68B8-FD0C-4763-BA03-08EB704222C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinandoComList", "TreinandoComList\TreinandoComList.csproj", "{3B235983-314C-4D5D-AEA9-4522F590AFEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreinandoComList", "TreinandoComList\TreinandoComList.csproj", "{3B235983-314C-4D5D-AEA9-4522F590AFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevisaoIComparable", "RevisaoIComparable\RevisaoIComparable.csproj", "{873C2F33-FCE8-4F6F-B5BE-CD8E2DD548AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{3B235983-314C-4D5D-AEA9-4522F590AFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B235983-314C-4D5D-AEA9-4522F590AFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B235983-314C-4D5D-AEA9-4522F590AFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873C2F33-FCE8-4F6F-B5BE-CD8E2DD548AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873C2F33-FCE8-4F6F-B5BE-CD8E2DD548AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873C2F33-FCE8-4F6F-B5BE-CD8E2DD548AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873C2F33-FCE8-4F6F-B5BE-CD8E2DD548AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
