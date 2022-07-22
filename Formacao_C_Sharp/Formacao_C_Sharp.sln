@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RevisaoIComparable", "Revis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RevisaoIEquatable", "RevisaoIEquatable\RevisaoIEquatable.csproj", "{96D0987E-D7FF-4497-98A3-61B87D9751CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Praticando_Exercicios_Jr", "01_Praticando_Exercicios_Jr\01_Praticando_Exercicios_Jr.csproj", "{DB76FA3C-F3E7-45B7-8310-05BB69C51115}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Praticando_Exercicios_Jr", "01_Praticando_Exercicios_Jr\01_Praticando_Exercicios_Jr.csproj", "{DB76FA3C-F3E7-45B7-8310-05BB69C51115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraticandoGenerics", "PraticandoGenerics\PraticandoGenerics.csproj", "{E9E6D938-9A97-46F8-A0BC-8C66E189858C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{DB76FA3C-F3E7-45B7-8310-05BB69C51115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB76FA3C-F3E7-45B7-8310-05BB69C51115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB76FA3C-F3E7-45B7-8310-05BB69C51115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E6D938-9A97-46F8-A0BC-8C66E189858C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E6D938-9A97-46F8-A0BC-8C66E189858C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E6D938-9A97-46F8-A0BC-8C66E189858C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E6D938-9A97-46F8-A0BC-8C66E189858C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
