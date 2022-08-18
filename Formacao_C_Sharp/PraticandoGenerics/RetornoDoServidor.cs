@@ -1,10 +1,12 @@
 ﻿namespace PraticandoGenerics
 {
-    internal class RetornoDoServidor<T> where T : class, new()
+    internal class RetornoDoServidor<T> where T : class, IInitializable, new()
     {
         public T Create()
         {
-            return new T();
+            T obj = new();
+            obj.Init();
+            return obj;
         }
     }
 }

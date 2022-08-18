@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeContatos", "ControleDeContatos\ControleDeContatos.csproj", "{814F99F3-7776-40F9-B0F8-68C66BA1FD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{814F99F3-7776-40F9-B0F8-68C66BA1FD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814F99F3-7776-40F9-B0F8-68C66BA1FD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814F99F3-7776-40F9-B0F8-68C66BA1FD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814F99F3-7776-40F9-B0F8-68C66BA1FD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B144A3A1-25EA-480F-A0FD-EED0DB6A3369}
+	EndGlobalSection
+EndGlobal
